@@ -1,8 +1,8 @@
-name = "Harry"
+name = "Anuj"
 friend = "Rohan"
 anotherFriend = 'Lovish'
 apple = '''He said,
-Hi Harry
+Hi Anuj
 hey I am good
 "I want to eat an apple'''
 print("Hello," + name)
